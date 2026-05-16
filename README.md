@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shorol-bhalobasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Shorol Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shorol-bhalobasha/) |
+| **Get License** | [Get License For Shorol Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shorol-bhalobasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ae628273746d7a2cfec6cf151cb31823a3c7c86db98631dc420608f25d3e9841` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

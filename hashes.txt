@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shorol Bhalobasha
+
+This log tracks the cryptographic history and versioning for the song **Shorol Bhalobasha** (shorol-bhalobasha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T10:17:27.832680 | `v1` | `ae628273746d7a2cfec6cf151cb31823a3c7c86db98631dc420608f25d3e9841` | `02fc9b39004ab682b6e5ee46dd0197c933bc8c0bbf56610e4559333ab1e71fe0` | `2026-05-16_shorol-bhalobasha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
